@@ -46,12 +46,6 @@ Streamlit Cloud
 
 <img width="1915" height="175" alt="phonepe_pulse_schema_full" src="https://github.com/user-attachments/assets/c73cd0c9-aa4c-4c75-a207-70887101828f" />
 
-📊 Dashboard Preview
-
-<img width="2846" height="1456" alt="image" src="https://github.com/user-attachments/assets/fa98d13b-d7b8-40e9-aa01-8620aae18dc7" />
-<img width="2837" height="1505" alt="image" src="https://github.com/user-attachments/assets/bb4378d0-172e-4b93-9da3-1e749ba4bc61" />
-<img width="2842" height="1512" alt="image" src="https://github.com/user-attachments/assets/d60737f3-dc68-45c3-b2c4-8e4226ff3a71" />
-
 
 Home/Main Page
 Choropleth Transaction Map
